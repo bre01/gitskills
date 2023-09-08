@@ -6,6 +6,7 @@ today is june 1 I'm going to experience the pattern of work
 this is the change on the dev branch.
 I write something down on this 'newdev' branch, and I want to check it on github.let's find out what will happen.
 and another line in newdev branch. after this I will merge it to main branch.
+
 after I change newdev branch, I will push it to remote and clone the newdev branch to another folder
 
 # gitskills
@@ -17,3 +18,7 @@ this is the change on the dev branch.
 I write something down on this 'newdev' branch, and I want to check it on github.let's find out what will happen.
 and another line in newdev branch. after this I will merge it to main branch.
 after I change newdev branch, I will push it to remote and clone the newdev branch to another folder
+
+is this how things going? I don't know but I can feel this is not good!
+
+
